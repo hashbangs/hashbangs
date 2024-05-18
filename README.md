@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi! I'm Solara
 
-<!--
-**hashbangs/hashbangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+I love computers and learning new powers! Some of my current projects include:
+```
 
-Here are some ideas to get you started:
+```
+programming  computer hardware   operating systems  automotive mechanics  digital music
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages (learning)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23013243.svg?style=for-the-badge&logo=html5&logoColor=white)
+### setup
+-  distro:  Arch Linux 
+- window manager:  Hyprland 
+- text editor / IDE:  Neovim 
+- terminal emulator:  Kitty & Alacritty
+- shell:  fish
+
+
